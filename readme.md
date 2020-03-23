@@ -2,7 +2,8 @@
 
 这个repository包含了limitMe自2013年以来大大小小的软件作品。感谢您抽出时间了解limitMe的开发兴趣和技术栈。
 
-### RUC追课
+
+## RUC追课
 
 |项目名称/链接|时间|投入|技术关键词|
 |:-:|:-:|:-:|:-:|
@@ -17,7 +18,8 @@ RUC追课是2015年上架AppStore帮助人民大学同学找寻课堂小伙伴�
 |:-:|:-:|:-:|:-:|:-:|
 |![登录界面](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P1.jpg)|![添加关注人](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P4.jpg)|![某同学的主页](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P2.jpg)|![时间线](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P5.jpg)|![时间点详情](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P3.jpg)|
 
-### 基于Excel的风险评估
+
+## 基于Excel的风险评估
 
 |项目名称/链接|时间|投入|技术关键词|
 |:-:|:-:|:-:|:-:|
@@ -25,9 +27,11 @@ RUC追课是2015年上架AppStore帮助人民大学同学找寻课堂小伙伴�
 |[Hyper Risk Analyse](https://bitbucket.org/limMe/net-hyper-risk-analyse)|2016年3月、4月、10月|闲时x2周|C#, JavaScript，Bootstrap|
 
 应农业与农村发展学院某学长的($$$)要求，为他们课题组开发了一个基于Excel，读取用户输入的VSTO程序。后来由于他们第二年需求进一步更改，VSTO需要依托Excel本体，升级为Bootstrap处理界面，C#操作Excel文件，然后用接口互操作。
+
 （当时脑子抽了，要么C#一条路到WPF走到黑，要么早点认定一切终将被JS改写，若干年后我用上exceljs时才想起当时写这个脑子进的水）
 
-### deyicard项目
+
+## deyicard项目
 
 |项目名称/链接|时间|投入|技术关键词|
 |:-:|:-:|:-:|:-:|
@@ -37,7 +41,8 @@ RUC追课是2015年上架AppStore帮助人民大学同学找寻课堂小伙伴�
 
 得益卡项目是人民大学法学院、新闻学院小伙伴拉我搞的创业项目，商业模式简明：和校园附近商家谈好，学生持卡即可获得折扣。其技术架构共分三个部分，一个是处理核心逻辑的Deyi O2O，存储业务信息，以微信公众号的openid作为用户验证方式，并且在消费时通过微信公众号发送提醒，一个是商家端的PC应用Deyi WPF Client。一个是消费者和商家都可以通过微信公众号访问的Deyi Web App。在一个月的时间内搭好核心架构后，该项目的技术维护实际上交给了来自信息学院同一届的leahic和harpu。
 
-### 小创问券录入工具
+
+## 小创问券录入工具
 
 |项目名称/链接|时间|投入|技术关键词|
 |:-:|:-:|:-:|:-:|
@@ -45,7 +50,8 @@ RUC追课是2015年上架AppStore帮助人民大学同学找寻课堂小伙伴�
 
 参与小创时立项是北京市级，收集了上百份有效问券，在极短时间内给小组成员创造了一个加速录入结果的命令行应用
 
-### 第一代个人博客RagSharer
+
+## 第一代个人博客RagSharer
 
 |项目名称/链接|时间|投入|技术关键词|
 |:-:|:-:|:-:|:-:|
@@ -56,13 +62,15 @@ RUC追课是2015年上架AppStore帮助人民大学同学找寻课堂小伙伴�
 |截图|截图|
 |:-:|:-:|
 
-### 中国人民大学GPA刮刮乐
+
+## 中国人民大学GPA刮刮乐
 
 |项目名称/链接|时间|投入|技术关键词|截图|
 |:-:|:-:|:-:|:-:|:-:|
 |[人民大学GPA刮刮乐](https://bitbucket.org/limMe/web-gpa-scratcher/src/master/)|2014年冬|闲时x两天|HTML, CSS, Vanilla JS||
 
-### TiUP服务中心Hybrid版
+
+## TiUP服务中心Hybrid版
 
 |项目名称/链接|时间|投入|技术关键词|
 |:-:|:-:|:-:|:-:|
