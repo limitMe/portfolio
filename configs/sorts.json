@@ -1,0 +1,14 @@
+{
+    "": [
+        "readme.md", 
+        "screenshots"
+    ], 
+    "__positions": {
+        "screenshots": 2, 
+        "readme.md": 1
+    }, 
+    "__raw_positions": {
+        "screenshots": 2, 
+        "readme.md": 1
+    }
+}
