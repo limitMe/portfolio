@@ -61,13 +61,14 @@ RUC追课是2015年上架AppStore帮助人民大学同学找寻课堂小伙伴�
 
 |截图|截图|
 |:-:|:-:|
+|![首页](https://github.com/limitMe/portfolio/blob/master/screenshots/rag-sharer/1.png)|![添加文章](https://github.com/limitMe/portfolio/blob/master/screenshots/rag-sharer/2.png)|
 
 
 ## 中国人民大学GPA刮刮乐
 
 |项目名称/链接|时间|投入|技术关键词|截图|
 |:-:|:-:|:-:|:-:|:-:|
-|[人民大学GPA刮刮乐](https://bitbucket.org/limMe/web-gpa-scratcher/src/master/)|2014年冬|闲时x两天|HTML, CSS, Vanilla JS||
+|[人民大学GPA刮刮乐](https://bitbucket.org/limMe/web-gpa-scratcher/src/master/)|2014年冬|闲时x两天|HTML, CSS, Vanilla JS|![截图](https://github.com/limitMe/portfolio/blob/master/screenshots/GPA-Scratcher/1.jpg)|
 
 
 ## TiUP服务中心Hybrid版
@@ -78,5 +79,6 @@ RUC追课是2015年上架AppStore帮助人民大学同学找寻课堂小伙伴�
 
 |截图|截图|截图|截图|
 |:-:|:-:|:-:|:-:|
+|![欢迎页1](https://github.com/limitMe/portfolio/blob/master/screenshots/service-center-hybrid/1.png)|![欢迎页2](https://github.com/limitMe/portfolio/blob/master/screenshots/service-center-hybrid/2.png)|![欢迎页3](https://github.com/limitMe/portfolio/blob/master/screenshots/service-center-hybrid/3.png)|![欢迎页4](https://github.com/limitMe/portfolio/blob/master/screenshots/service-center-hybrid/4.png)|
 
 这些图标可是在Canvas上画上去的，太阳和齿轮还要转的。
