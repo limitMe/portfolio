@@ -1,9 +1,38 @@
 <h1 align="center">limitMe技术作品集</h1>
 
 <div align="center">这个repository包含了limitMe自2013年以来大大小小的软件作品。感谢您抽出时间了解limitMe的开发兴趣和技术栈。</div>
+<br />
 
 ![分割线](https://github.com/limitMe/portfolio/blob/master/head.png)
 
+
+## Spriggy Pocket Money
+
+|项目名称/链接|时间|投入|角色|技术关键词|
+|:-:|:-:|:-:|:-:|:-:|
+|[Spriggy Pocket Money(闭源)](https://spriggy.com.au/)|2017年10月至2019年12月|全职x两年|与另两位iOS开发者协作开发|Swift, RxCocoa, RxSwift, Realm, Auto Layout, Stevia|
+|Spriggy PWA components|2019年7月至2019年12月|全职x半年|拉好架构后由其他开发者继续开发|React, TypeScript, Hooks, Service Worker, PWA, WKWebView|
+
+![分割线](https://github.com/limitMe/portfolio/blob/master/hr.png)
+
+## 咔哒开锁
+
+|项目名称/链接|时间|投入|角色|技术关键词|
+|:-:|:-:|:-:|:-:|:-:|
+|Kada(闭源)|2015年9月至2016年5月|全职x1年|项目负责人|Swift, BLE, 项目规划|
+
+
+![分割线](https://github.com/limitMe/portfolio/blob/master/hr.png)
+
+## RUC Wishtree
+
+|项目名称/链接|时间|投入|技术关键词|
+|:-:|:-:|:-:|:-:|
+|[人民大学愿望树](https://bitbucket.org/limMe/web-ruc-wishtree)|2016年3月|闲时x1周|HTML5, vanilla Js|
+|[愿望树后端](https://bitbucket.org/limMe/node-ruc-girls-day)|2016年3月|闲时x1周|node, leanCloud, BaaS(FaaS前身), 云函数|
+
+
+![分割线](https://github.com/limitMe/portfolio/blob/master/hr.png)
 
 ## RUC追课
 
@@ -19,6 +48,25 @@ RUC追课是2015年上架AppStore帮助人民大学同学找寻课堂小伙伴�
 |登录界面|添加关注人|某同学的主页|时间线|时间点详情|
 |:-:|:-:|:-:|:-:|:-:|
 |![登录界面](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P1.jpg)|![添加关注人](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P4.jpg)|![某同学的主页](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P2.jpg)|![时间线](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P5.jpg)|![时间点详情](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P3.jpg)|
+
+![分割线](https://github.com/limitMe/portfolio/blob/master/hr.png)
+
+## TiUP服务中心2.0
+
+|项目名称/链接|时间|投入|角色|技术关键词|
+|:-:|:-:|:-:|:-:|:-:|
+|[TiUP服务中心(闭源)](http://www.tiup.cn/servicecenter)|2014年9月至2015年7月|全职x1年|与另外两名iOS开发者协同开发|Objective-C, Storyboard, OAuth|
+
+
+![分割线](https://github.com/limitMe/portfolio/blob/master/hr.png)
+
+## TiUP Hybrid Components
+
+|项目名称/链接|时间|投入|技术关键词|
+|:-:|:-:|:-:|:-:|
+|[TiUP招聘 2015 2016](https://bitbucket.org/limMe/web-tiup-hire)|2015年1月 2016年2月|全职x2周|HTML5, canvas, Animate Edge|
+|App内课程表(闭源)|2015年7月|全职x3天|HTML, Vanilla JS, iFrame(iOS通讯)|
+
 
 ![分割线](https://github.com/limitMe/portfolio/blob/master/hr.png)
 
@@ -78,6 +126,16 @@ RUC追课是2015年上架AppStore帮助人民大学同学找寻课堂小伙伴�
 |[人民大学GPA刮刮乐](https://bitbucket.org/limMe/web-gpa-scratcher/src/master/)|2014年冬|闲时x两天|HTML, CSS, Vanilla JS|
 
 ![截图](https://github.com/limitMe/portfolio/blob/master/screenshots/GPA-Scratcher/1s.jpg)
+
+![分割线](https://github.com/limitMe/portfolio/blob/master/hr.png)
+
+## Song Player
+
+|项目名称/链接|时间|投入|技术关键词|
+|:-:|:-:|:-:|:-:|
+|[Song Player](https://github.com/limitMe/Song-Player)|2014年9月|闲时x一天|HTML, CSS, Vanilla JS, IIS|
+
+本质上是基于当时的酷我音乐HTML5端拿来做的二次开发，用来在14年10月国庆节出去玩时每天朋友圈发一首歌但是又要带上那天拍的照片。中二吧。
 
 ![分割线](https://github.com/limitMe/portfolio/blob/master/hr.png)
 
