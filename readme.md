@@ -1,6 +1,6 @@
-# limitMe技术作品集
+<h1 align="center">limitMe技术作品集</h1>
 
-<center>这个repository包含了limitMe自2013年以来大大小小的软件作品。感谢您抽出时间了解limitMe的开发兴趣和技术栈。</center>
+<div align="center">这个repository包含了limitMe自2013年以来大大小小的软件作品。感谢您抽出时间了解limitMe的开发兴趣和技术栈。</div>
 
 ![分割线](https://github.com/limitMe/portfolio/blob/master/head.png)
 
