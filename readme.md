@@ -18,6 +18,7 @@ RUC追课是2015年上架AppStore帮助人民大学同学找寻课堂小伙伴�
 |:-:|:-:|:-:|:-:|:-:|
 |![登录界面](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P1.jpg)|![添加关注人](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P4.jpg)|![某同学的主页](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P2.jpg)|![时间线](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P5.jpg)|![时间点详情](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P3.jpg)|
 
+![分割线](https://github.com/limitMe/portfolio/blob/master/hr.png)
 
 ## 基于Excel的风险评估
 
@@ -30,6 +31,7 @@ RUC追课是2015年上架AppStore帮助人民大学同学找寻课堂小伙伴�
 
 （当时脑子抽了，要么C#一条路到WPF走到黑，要么早点认定一切终将被JS改写，若干年后我用上exceljs时才想起当时写这个脑子进的水）
 
+![分割线](https://github.com/limitMe/portfolio/blob/master/hr.png)
 
 ## deyicard项目
 
@@ -41,6 +43,7 @@ RUC追课是2015年上架AppStore帮助人民大学同学找寻课堂小伙伴�
 
 得益卡项目是人民大学法学院、新闻学院小伙伴拉我搞的创业项目，商业模式简明：和校园附近商家谈好，学生持卡即可获得折扣。其技术架构共分三个部分，一个是处理核心逻辑的Deyi O2O，存储业务信息，以微信公众号的openid作为用户验证方式，并且在消费时通过微信公众号发送提醒，一个是商家端的PC应用Deyi WPF Client。一个是消费者和商家都可以通过微信公众号访问的Deyi Web App。在一个月的时间内搭好核心架构后，该项目的技术维护实际上交给了来自信息学院同一届的leahic和harpu。
 
+![分割线](https://github.com/limitMe/portfolio/blob/master/hr.png)
 
 ## 小创问券录入工具
 
@@ -50,6 +53,7 @@ RUC追课是2015年上架AppStore帮助人民大学同学找寻课堂小伙伴�
 
 参与小创时立项是北京市级，收集了上百份有效问券，在极短时间内给小组成员创造了一个加速录入结果的命令行应用
 
+![分割线](https://github.com/limitMe/portfolio/blob/master/hr.png)
 
 ## 第一代个人博客RagSharer
 
@@ -63,6 +67,7 @@ RUC追课是2015年上架AppStore帮助人民大学同学找寻课堂小伙伴�
 |:-:|:-:|
 |![首页](https://github.com/limitMe/portfolio/blob/master/screenshots/rag-sharer/1.png)|![添加文章](https://github.com/limitMe/portfolio/blob/master/screenshots/rag-sharer/2.png)|
 
+![分割线](https://github.com/limitMe/portfolio/blob/master/hr.png)
 
 ## 中国人民大学GPA刮刮乐
 
@@ -70,6 +75,7 @@ RUC追课是2015年上架AppStore帮助人民大学同学找寻课堂小伙伴�
 |:-:|:-:|:-:|:-:|:-:|
 |[人民大学GPA刮刮乐](https://bitbucket.org/limMe/web-gpa-scratcher/src/master/)|2014年冬|闲时x两天|HTML, CSS, Vanilla JS|![截图](https://github.com/limitMe/portfolio/blob/master/screenshots/GPA-Scratcher/1.jpg)|
 
+![分割线](https://github.com/limitMe/portfolio/blob/master/hr.png)
 
 ## TiUP服务中心Hybrid版
 
