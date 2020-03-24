@@ -1,6 +1,6 @@
 # limitMe技术作品集
 
-这个repository包含了limitMe自2013年以来大大小小的软件作品。感谢您抽出时间了解limitMe的开发兴趣和技术栈。
+<center>这个repository包含了limitMe自2013年以来大大小小的软件作品。感谢您抽出时间了解limitMe的开发兴趣和技术栈。</center>
 
 ![分割线](https://github.com/limitMe/portfolio/blob/master/head.png)
 
@@ -73,9 +73,11 @@ RUC追课是2015年上架AppStore帮助人民大学同学找寻课堂小伙伴�
 
 ## 中国人民大学GPA刮刮乐
 
-|项目名称/链接|时间|投入|技术关键词|截图|
-|:-:|:-:|:-:|:-:|:-:|
-|[人民大学GPA刮刮乐](https://bitbucket.org/limMe/web-gpa-scratcher/src/master/)|2014年冬|闲时x两天|HTML, CSS, Vanilla JS|![截图](https://github.com/limitMe/portfolio/blob/master/screenshots/GPA-Scratcher/1s.jpg)|
+|项目名称/链接|时间|投入|技术关键词|
+|:-:|:-:|:-:|:-:|
+|[人民大学GPA刮刮乐](https://bitbucket.org/limMe/web-gpa-scratcher/src/master/)|2014年冬|闲时x两天|HTML, CSS, Vanilla JS|
+
+![截图](https://github.com/limitMe/portfolio/blob/master/screenshots/GPA-Scratcher/1s.jpg)
 
 ![分割线](https://github.com/limitMe/portfolio/blob/master/hr.png)
 
