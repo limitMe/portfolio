@@ -10,12 +10,14 @@
 
 |项目名称/链接|时间|投入|角色|技术关键词|
 |:-:|:-:|:-:|:-:|:-:|
-|[Spriggy Pocket Money(闭源)](https://spriggy.com.au/)|2017年10月至2019年12月|全职x两年|与另两位iOS开发者协作开发|Swift, RxCocoa, RxSwift, Realm, Auto Layout, Stevia|
+|[Spriggy Pocket Money(闭源)](https://spriggy.com.au/)|2017年10月至2019年12月|全职x两年|与另两位iOS开发者协作开发|Swift, RxCocoa, RxSwift, Realm, Auto Layout, Stevia, LaunchDarkly|
 |Spriggy PWA components|2019年7月至2019年12月|全职x半年|拉好架构后由其他开发者继续开发|React, TypeScript, Hooks, Service Worker, PWA, WKWebView|
 
 |主屏|赚取零花钱|为愿望攒钱|追踪消费|实时通知|
 |:-:|:-:|:-:|:-:|:-:|
 |![图1](https://github.com/limitMe/portfolio/blob/master/screenshots/spriggy/P2.PNG)|![图2](https://github.com/limitMe/portfolio/blob/master/screenshots/spriggy/P3.PNG)|![图3](https://github.com/limitMe/portfolio/blob/master/screenshots/spriggy/P4.PNG)|![图4](https://github.com/limitMe/portfolio/blob/master/screenshots/spriggy/P5.PNG)|![图5](https://github.com/limitMe/portfolio/blob/master/screenshots/spriggy/P1.PNG)|
+
+Spriggy是澳洲初创公司为澳洲青少年及其家长打造的电子钱包应用。我毕业之后拿着打工度假签证，到这家公司面试一拍即合，随后两年一直在参与这个App的开发。
 
 ![分割线](https://github.com/limitMe/portfolio/blob/master/hr.png)
 
@@ -42,6 +44,8 @@ GIF太大，GitHub不支持，请访问[这里](https://j.gifs.com/y80Ggn.gif)�
 |:-:|:-:|:-:|:-:|:-:|
 |![图1](https://github.com/limitMe/portfolio/blob/master/screenshots/kada/P4.jpg)|![图2](https://github.com/limitMe/portfolio/blob/master/screenshots/kada/P2.jpg)|![图3](https://github.com/limitMe/portfolio/blob/master/screenshots/kada/P3.jpg)|![图4](https://github.com/limitMe/portfolio/blob/master/screenshots/kada/P1.jpg)|![图5](https://github.com/limitMe/portfolio/blob/master/screenshots/kada/P5.jpg)|
 
+咔哒开锁是TiUP内部一个创新项目，我作为这个项目的负责人，从产品规划到技术选型一路走来。协调团队内后端、安卓端，公司内设计，和第三方门锁提供方。后这一门锁在人民大学几乎所有的教师办公室和留学生宿舍得到了应用。
+
 ![分割线](https://github.com/limitMe/portfolio/blob/master/hr.png)
 
 ## RUC Wishtree
@@ -51,6 +55,7 @@ GIF太大，GitHub不支持，请访问[这里](https://j.gifs.com/y80Ggn.gif)�
 |[人民大学愿望树](https://bitbucket.org/limMe/web-ruc-wishtree)|2016年3月|闲时x1周|HTML5, vanilla Js|
 |[愿望树后端](https://bitbucket.org/limMe/node-ruc-girls-day)|2016年3月|闲时x1周|node, leanCloud, BaaS(FaaS前身), express, 云函数|
 
+RUC愿望树是2016年女生节上线的一个个人小App，女生登录后可以许一个愿望，男生登录后会随机得到一个愿望，可以选择去实现。
 
 ![分割线](https://github.com/limitMe/portfolio/blob/master/hr.png)
 
@@ -62,12 +67,12 @@ GIF太大，GitHub不支持，请访问[这里](https://j.gifs.com/y80Ggn.gif)�
 |[RUC追课服务端](https://github.com/limitMe/ruc-class-follower-service)|2015年9月|闲时x一周|C#, Asp.net 4.5, MySQL|
 |[RUC课程爬虫](https://github.com/limitMe/ruc-class-catcher)|2015年9月|闲时x一周|C#, 爬虫|
 
-RUC追课是2015年上架AppStore帮助人民大学同学找寻课堂小伙伴的 iOS App
-在RUC追课上，你可以通过姓名或者学号，将感兴趣的同学加入关注。然后你关注的同学的课程活动将会按时间顺序展示在你的时间线上。你还可以访问同学的RUC追课主页给TA留言。
-
 |登录界面|添加关注人|某同学的主页|时间线|时间点详情|
 |:-:|:-:|:-:|:-:|:-:|
 |![登录界面](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P1.jpg)|![添加关注人](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P4.jpg)|![某同学的主页](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P2.jpg)|![时间线](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P5.jpg)|![时间点详情](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P3.jpg)|
+
+RUC追课是2015年上架AppStore帮助人民大学同学找寻课堂小伙伴的 iOS App
+在RUC追课上，你可以通过姓名或者学号，将感兴趣的同学加入关注。然后你关注的同学的课程活动将会按时间顺序展示在你的时间线上。你还可以访问同学的RUC追课主页给TA留言。
 
 ![分割线](https://github.com/limitMe/portfolio/blob/master/hr.png)
 
@@ -134,11 +139,11 @@ RUC追课是2015年上架AppStore帮助人民大学同学找寻课堂小伙伴�
 |:-:|:-:|:-:|:-:|
 |[RagSharer](https://github.com/limitMe/rag-sharer)|2015年2月|闲时x一周|Bootstrap, Aspx .Net, WebAPI, C#|
 
-特点：前后端没有分离，基于文本文件识别博客文章，发表文章仅使用固定密码验证
-
 |截图|截图|
 |:-:|:-:|
 |![首页](https://github.com/limitMe/portfolio/blob/master/screenshots/rag-sharer/1.png)|![添加文章](https://github.com/limitMe/portfolio/blob/master/screenshots/rag-sharer/2.png)|
+
+特点：前后端没有分离，基于文本文件识别博客文章，发表文章仅使用固定密码验证
 
 ![分割线](https://github.com/limitMe/portfolio/blob/master/hr.png)
 
