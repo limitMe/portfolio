@@ -15,7 +15,7 @@
 
 |主屏|赚取零花钱|为愿望攒钱|追踪消费|实时通知|
 |:-:|:-:|:-:|:-:|:-:|
-|![图1](https://github.com/limitMe/portfolio/blob/master/screenshots/spriggy/P2.png)|![图2](https://github.com/limitMe/portfolio/blob/master/screenshots/spriggy/P3.png)|![图3](https://github.com/limitMe/portfolio/blob/master/screenshots/spriggy/P4.png)|![图4](https://github.com/limitMe/portfolio/blob/master/screenshots/spriggy/P5.png)|![图5](https://github.com/limitMe/portfolio/blob/master/screenshots/spriggy/P1.png)|
+|![图1](https://github.com/limitMe/portfolio/blob/master/screenshots/spriggy/P2.PNG)|![图2](https://github.com/limitMe/portfolio/blob/master/screenshots/spriggy/P3.PNG)|![图3](https://github.com/limitMe/portfolio/blob/master/screenshots/spriggy/P4.PNG)|![图4](https://github.com/limitMe/portfolio/blob/master/screenshots/spriggy/P5.PNG)|![图5](https://github.com/limitMe/portfolio/blob/master/screenshots/spriggy/P1.PNG)|
 
 ![分割线](https://github.com/limitMe/portfolio/blob/master/hr.png)
 
@@ -40,7 +40,7 @@ GIF太大，GitHub不支持，请访问[这里](https://j.gifs.com/y80Ggn.gif)�
 
 |开屏|跨校认证|显示附近门锁|钥匙管理|实时通知远程开门|
 |:-:|:-:|:-:|:-:|:-:|
-|![图1](https://github.com/limitMe/portfolio/blob/master/screenshots/kada/P4.png)|![图2](https://github.com/limitMe/portfolio/blob/master/screenshots/kada/P2.png)|![图3](https://github.com/limitMe/portfolio/blob/master/screenshots/kada/P3.png)|![图4](https://github.com/limitMe/portfolio/blob/master/screenshots/kada/P1.png)|![图5](https://github.com/limitMe/portfolio/blob/master/screenshots/kada/P5.png)|
+|![图1](https://github.com/limitMe/portfolio/blob/master/screenshots/kada/P4.jpg)|![图2](https://github.com/limitMe/portfolio/blob/master/screenshots/kada/P2.jpg)|![图3](https://github.com/limitMe/portfolio/blob/master/screenshots/kada/P3.jpg)|![图4](https://github.com/limitMe/portfolio/blob/master/screenshots/kada/P1.jpg)|![图5](https://github.com/limitMe/portfolio/blob/master/screenshots/kada/P5.jpg)|
 
 ![分割线](https://github.com/limitMe/portfolio/blob/master/hr.png)
 
