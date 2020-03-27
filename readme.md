@@ -2,6 +2,7 @@
 
 <div align="center">这个repository包含了limitMe自2013年以来大大小小的软件作品。感谢您抽出时间了解limitMe的开发兴趣和技术栈。</div>
 <br />
+<div align="center">[BitBucket](https://bitbucket.org/limMe/) | [之前在Spriggy公司用Github账号](https://github.com/SpriggyDesmond)</div>
 
 ![分割线](https://github.com/limitMe/portfolio/blob/master/head.png)
 
